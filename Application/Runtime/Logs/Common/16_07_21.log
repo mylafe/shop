@@ -1,0 +1,156 @@
+[ 2016-07-21T14:31:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002345s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-07-21T14:44:58+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-07-21T14:45:01+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-07-21T16:26:03+08:00 ] 127.0.0.1 /Public/img/icon/e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003033s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:26:04+08:00 ] 127.0.0.1 /Public/img/icon/i.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002403s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:26:04+08:00 ] 127.0.0.1 /Public/img/icon/t.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001536s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:26:04+08:00 ] 127.0.0.1 /Public/img/icon/j.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003757s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:26:04+08:00 ] 127.0.0.1 /Public/img/logo_index.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:26:40+08:00 ] 127.0.0.1 /index.php/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Index
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/n.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/t.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027442s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/i.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/logo_index.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002471s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:19+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/j.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002569s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:31+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:32+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/logo_index.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000194s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003543s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:32+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/j.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:32+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/n.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:32+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/i.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002903s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:29:32+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/t.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:30:10+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:30:10+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/t.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:30:11+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/j.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:30:11+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/i.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031749s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-21T16:30:11+08:00 ] 127.0.0.1 /Public/css/__PUBLIC__/images/icon/n.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+ERR: 无法加载模块:Public
+

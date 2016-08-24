@@ -1,0 +1,54 @@
+[ 2016-08-23T10:22:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-08-23T10:23:04+08:00 ] 127.0.0.1 /admikn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Admikn
+
+[ 2016-08-23T14:07:53+08:00 ] 127.0.0.1 /index.php/index.php/Admin/login/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002224s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-08-23T14:08:22+08:00 ] 127.0.0.1 /index.php/index.php/Admin/Login/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003337s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-08-23T14:08:31+08:00 ] 127.0.0.1 /index.php/index.php/Admin/Login/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-08-23T14:55:48+08:00 ] 127.0.0.1 /style/backstage.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002798s ]
+ERR: 无法加载模块:Style
+
+[ 2016-08-23T14:55:52+08:00 ] 127.0.0.1 /style/backstage.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Style
+
+[ 2016-08-23T15:00:41+08:00 ] 127.0.0.1 /index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001475s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-23T15:03:43+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+ERR: 无法加载模块:Index
+
