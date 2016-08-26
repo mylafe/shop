@@ -10,3 +10,15 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
 INFO: [ app_init ] --END-- [ RunTime:0.003454s ]
 ERR: 无法加载模块:{:U('Admin
 
+[ 2016-08-24T13:57:26+08:00 ] 127.0.0.1 /addadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:Addadmin
+
+[ 2016-08-24T23:53:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001822s ]
+ERR: 无法加载模块:Favicon
+

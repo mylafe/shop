@@ -17,18 +17,26 @@
             <div class="cont">
                 <div class="title">添加管理员</div>
                 <div class="details">
-                <form action="Admin/addadmin" method="post">
-                    <div>
-                    <input type="password" class="form-control" name="password0" id="password0" placeholder="旧密码" required="">
-                	</div>
-                	<div>
-                    <input type="password" class="form-control" name="password" id="password" placeholder="新密码" required="">
-                	</div>
-                	<div>
-                    <input type="password" class="form-control" name="password2" id="password2" placeholder="确认密码" required="">
-                	</div>
-                	<button type="submit" id="submit" class="am-btn am-btn-primary am-btn-sm am-fl">确认</button>
-                </form>
+					<form action="Admin/Admin/addadmin" method="post">
+					<table width="70%" border="1" cellpadding="5" cellspacing="0" bgcolor="#cccccc" style="text-align:center;">
+						<tr>
+							<td align="center">管理员名称</td>
+							<td><input type="text" name="username" placeholder="请输入管理员名称"/></td>
+						</tr>
+						<tr>
+							<td align="center">管理员密码</td>
+							<td><input type="password" name="password" /></td>
+						</tr>
+						<tr>
+							<td align="center">管理员邮箱</td>
+							<td><input type="text" name="email" placeholder="请输入管理员邮箱"/></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit"  value="添加管理员"/></td>
+						</tr>
+
+					</table>
+					</form>
                 </div>
             </div>
         </div>
